@@ -1,1 +1,2 @@
-print('Я домашка'
+print(f'Я домашка')
+# oh yesss
